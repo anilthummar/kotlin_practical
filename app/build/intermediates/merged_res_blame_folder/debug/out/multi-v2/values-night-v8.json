@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/capstabsolutions/Desktop/KotlinPractical/app/src/main/res/values-night/themes.xml",
+                    "source": "/Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
