@@ -1,0 +1,7 @@
+com.example.kotlinpractical.test.app-androidTest-0 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/build/generated/res/resValues/androidTest/debug
+com.example.kotlinpractical.test.app-androidTest-1 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/build/generated/res/rs/androidTest/debug
+com.example.kotlinpractical.test.app-mergeDebugAndroidTestResources-2 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.kotlinpractical.test.app-mergeDebugAndroidTestResources-3 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.kotlinpractical.test.app-merged_res-4 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/build/intermediates/merged_res/debugAndroidTest
+com.example.kotlinpractical.test.app-androidTest-5 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/src/androidTest/res
+com.example.kotlinpractical.test.app-androidTestDebug-6 /Users/capstabsolutions/Documents/AndroidApp/kotlin_practical/app/src/androidTestDebug/res
