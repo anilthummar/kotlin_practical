@@ -1,1 +1,54 @@
 # kotlin_practical
+
+My Interview questions :
+--------------------------------------
+- Oops concept
+- How to achieve abstraction
+- Polimorphism and encaplusation 
+- Abstract and interface
+- Why not create the instance of abstarct class
+- highorder functions 
+- JVM Static 
+- var and val 
+- val and const
+- latinit vs lazy
+- repository test cases
+ - TDD 
+- Viewmodel testcases 
+- SSOT
+- Domain layer 
+- How to write the common code for the viewmodel 
+- Courouite in depth every quesions , scope , builders 
+- What is refit 
+- How to call the kotlin class in java
+- What is the corouite execption handler and what is return in block
+- What is a Single Source of Truth (SSOT)
+- Best practise to use the corouite
+- Null safety oprator in kotlin list of the 
+- What is TestFX 
+- How to test navgation graph
+- What is job 
+ - launch and async difference
+-  What is await 
+-  What is GC
+-  What is serializable and parseble , diffenciate it 
+-  What is koin , hilt 
+-  Data class in kotlin
+-  Inline function
+-  Infix function
+- What is the disadvange of highorder and lamda 
+- What is inheritance
+- How we implement multilevel inheritance 
+- How to cancel the coroutin 
+- What is singleton class
+- how we create it 
+- What is compaine object 
+- What is object 
+- Difference between the object and compaine object
+- JVM Static in kotlin
+- What is constructor and why we use 
+
+Logically : 
+    - Suppose we have two suspend function what exact done in one and second
+    - Suppose i am using the application and call the apis in couroutie and it's showing the progressbar and loading , loading and user press the back and application crashed how you manage this things 
+- How to handle the exceptions in the couroutie 
